@@ -14,4 +14,16 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/garvit-exe/leetcode-solves/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/garvit-exe/leetcode-solves/tree/master/0071-simplify-path) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/garvit-exe/leetcode-solves/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/garvit-exe/leetcode-solves/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/garvit-exe/leetcode-solves/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
