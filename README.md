@@ -32,4 +32,20 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/garvit-exe/leetcode-solves/tree/master/0150-evaluate-reverse-polish-notation) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/garvit-exe/leetcode-solves/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/garvit-exe/leetcode-solves/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/garvit-exe/leetcode-solves/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/garvit-exe/leetcode-solves/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
