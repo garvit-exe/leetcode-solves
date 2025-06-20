@@ -44,8 +44,18 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/garvit-exe/leetcode-solves/tree/master/0222-count-complete-tree-nodes) |
+| [1008-binary-tree-cameras](https://github.com/garvit-exe/leetcode-solves/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/garvit-exe/leetcode-solves/tree/master/0222-count-complete-tree-nodes) |
+| [1008-binary-tree-cameras](https://github.com/garvit-exe/leetcode-solves/tree/master/1008-binary-tree-cameras) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1008-binary-tree-cameras](https://github.com/garvit-exe/leetcode-solves/tree/master/1008-binary-tree-cameras) |
+## Depth-First Search
+|  |
+| ------- |
+| [1008-binary-tree-cameras](https://github.com/garvit-exe/leetcode-solves/tree/master/1008-binary-tree-cameras) |
 <!---LeetCode Topics End-->
