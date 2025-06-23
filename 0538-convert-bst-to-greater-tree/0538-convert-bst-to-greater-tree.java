@@ -26,8 +26,6 @@ class Solution {
         reverseInorder(root.left);
     } 
     public TreeNode convertBST(TreeNode root) {
-        if (root == null || (root.left == null && root.right == null)) return root;
-
         reverseInorder(root);
         return root;
     }
