@@ -15,18 +15,14 @@
  */
 class Solution {
     int sum = 0;
-    private void reverseInorder(TreeNode root) {
-        if (root == null) return;
-
-        reverseInorder(root.right);
-
-        root.val += sum;
-        sum = root.val;
-
-        reverseInorder(root.left);
-    } 
     public TreeNode convertBST(TreeNode root) {
-        reverseInorder(root);
+        if (root != null) {
+            convertBST(root.right);
+            root.val += sum;
+            sum = root.val;
+            convertBST(root.left);
+        }
+
         return root;
     }
 }
