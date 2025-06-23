@@ -14,11 +14,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/garvit-exe/leetcode-solves/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/garvit-exe/leetcode-solves/tree/master/0071-simplify-path) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-exe/leetcode-solves/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/garvit-exe/leetcode-solves/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/garvit-exe/leetcode-solves/tree/master/0002-add-two-numbers) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-exe/leetcode-solves/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -43,11 +45,13 @@
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-exe/leetcode-solves/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/garvit-exe/leetcode-solves/tree/master/0222-count-complete-tree-nodes) |
 | [1008-binary-tree-cameras](https://github.com/garvit-exe/leetcode-solves/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-exe/leetcode-solves/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/garvit-exe/leetcode-solves/tree/master/0222-count-complete-tree-nodes) |
 | [1008-binary-tree-cameras](https://github.com/garvit-exe/leetcode-solves/tree/master/1008-binary-tree-cameras) |
 ## Dynamic Programming
@@ -57,5 +61,6 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-exe/leetcode-solves/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1008-binary-tree-cameras](https://github.com/garvit-exe/leetcode-solves/tree/master/1008-binary-tree-cameras) |
 <!---LeetCode Topics End-->
