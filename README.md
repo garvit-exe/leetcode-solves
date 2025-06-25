@@ -51,6 +51,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/garvit-exe/leetcode-solves/tree/master/0222-count-complete-tree-nodes) |
 | [0538-convert-bst-to-greater-tree](https://github.com/garvit-exe/leetcode-solves/tree/master/0538-convert-bst-to-greater-tree) |
 | [1008-binary-tree-cameras](https://github.com/garvit-exe/leetcode-solves/tree/master/1008-binary-tree-cameras) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/garvit-exe/leetcode-solves/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-exe/leetcode-solves/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0538-convert-bst-to-greater-tree](https://github.com/garvit-exe/leetcode-solves/tree/master/0538-convert-bst-to-greater-tree) |
 | [1008-binary-tree-cameras](https://github.com/garvit-exe/leetcode-solves/tree/master/1008-binary-tree-cameras) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/garvit-exe/leetcode-solves/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -81,4 +83,12 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/garvit-exe/leetcode-solves/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/garvit-exe/leetcode-solves/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+## Graph
+|  |
+| ------- |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/garvit-exe/leetcode-solves/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 <!---LeetCode Topics End-->
