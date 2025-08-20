@@ -22,6 +22,7 @@
 | [0002-add-two-numbers](https://github.com/garvit-exe/leetcode-solves/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-exe/leetcode-solves/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/garvit-exe/leetcode-solves/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/garvit-exe/leetcode-solves/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/garvit-exe/leetcode-solves/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/garvit-exe/leetcode-solves/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/garvit-exe/leetcode-solves/tree/master/0142-linked-list-cycle-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,4 +101,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/garvit-exe/leetcode-solves/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/garvit-exe/leetcode-solves/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
