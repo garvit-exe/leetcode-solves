@@ -21,6 +21,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/garvit-exe/leetcode-solves/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/garvit-exe/leetcode-solves/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0141-linked-list-cycle](https://github.com/garvit-exe/leetcode-solves/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/garvit-exe/leetcode-solves/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/garvit-exe/leetcode-solves/tree/master/0141-linked-list-cycle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/garvit-exe/leetcode-solves/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/garvit-exe/leetcode-solves/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
