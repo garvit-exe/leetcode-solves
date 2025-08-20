@@ -40,6 +40,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/garvit-exe/leetcode-solves/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvit-exe/leetcode-solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/garvit-exe/leetcode-solves/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/garvit-exe/leetcode-solves/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,10 +89,12 @@
 | [0141-linked-list-cycle](https://github.com/garvit-exe/leetcode-solves/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/garvit-exe/leetcode-solves/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/garvit-exe/leetcode-solves/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/garvit-exe/leetcode-solves/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/garvit-exe/leetcode-solves/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/garvit-exe/leetcode-solves/tree/master/0169-majority-element) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -107,4 +110,12 @@
 | [0142-linked-list-cycle-ii](https://github.com/garvit-exe/leetcode-solves/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/garvit-exe/leetcode-solves/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/garvit-exe/leetcode-solves/tree/master/0160-intersection-of-two-linked-lists) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/garvit-exe/leetcode-solves/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/garvit-exe/leetcode-solves/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
