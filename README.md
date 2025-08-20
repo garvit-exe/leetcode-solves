@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/garvit-exe/leetcode-solves/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/garvit-exe/leetcode-solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/garvit-exe/leetcode-solves/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Binary Search
 |  |
@@ -63,6 +64,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/garvit-exe/leetcode-solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1008-binary-tree-cameras](https://github.com/garvit-exe/leetcode-solves/tree/master/1008-binary-tree-cameras) |
 ## Depth-First Search
 |  |
