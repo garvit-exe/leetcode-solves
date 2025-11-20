@@ -31,6 +31,7 @@
 | [0002-add-two-numbers](https://github.com/garvit-exe/leetcode-solves/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/garvit-exe/leetcode-solves/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/garvit-exe/leetcode-solves/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/garvit-exe/leetcode-solves/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -42,14 +43,17 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvit-exe/leetcode-solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/garvit-exe/leetcode-solves/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/garvit-exe/leetcode-solves/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/garvit-exe/leetcode-solves/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/garvit-exe/leetcode-solves/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/garvit-exe/leetcode-solves/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/garvit-exe/leetcode-solves/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/garvit-exe/leetcode-solves/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -95,6 +99,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/garvit-exe/leetcode-solves/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/garvit-exe/leetcode-solves/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/garvit-exe/leetcode-solves/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/garvit-exe/leetcode-solves/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,6 +124,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/garvit-exe/leetcode-solves/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/garvit-exe/leetcode-solves/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
