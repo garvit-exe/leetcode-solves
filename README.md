@@ -30,6 +30,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/garvit-exe/leetcode-solves/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/garvit-exe/leetcode-solves/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0263-ugly-number](https://github.com/garvit-exe/leetcode-solves/tree/master/0263-ugly-number) |
 ## Recursion
 |  |
 | ------- |
