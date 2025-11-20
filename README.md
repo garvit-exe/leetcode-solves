@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/garvit-exe/leetcode-solves/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/garvit-exe/leetcode-solves/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvit-exe/leetcode-solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/garvit-exe/leetcode-solves/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -47,6 +48,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/garvit-exe/leetcode-solves/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/garvit-exe/leetcode-solves/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/garvit-exe/leetcode-solves/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -103,6 +105,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/garvit-exe/leetcode-solves/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/garvit-exe/leetcode-solves/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/garvit-exe/leetcode-solves/tree/master/0169-majority-element) |
 ## Breadth-First Search
