@@ -7,6 +7,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/garvit-exe/leetcode-solves/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/garvit-exe/leetcode-solves/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/garvit-exe/leetcode-solves/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/garvit-exe/leetcode-solves/tree/master/0151-reverse-words-in-a-string) |
