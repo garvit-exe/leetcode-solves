@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/garvit-exe/leetcode-solves/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/garvit-exe/leetcode-solves/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/garvit-exe/leetcode-solves/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/garvit-exe/leetcode-solves/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/garvit-exe/leetcode-solves/tree/master/0151-reverse-words-in-a-string) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/garvit-exe/leetcode-solves/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/garvit-exe/leetcode-solves/tree/master/0010-regular-expression-matching) |
 ## Array
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/garvit-exe/leetcode-solves/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvit-exe/leetcode-solves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1008-binary-tree-cameras](https://github.com/garvit-exe/leetcode-solves/tree/master/1008-binary-tree-cameras) |
 ## Depth-First Search
