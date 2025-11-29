@@ -36,6 +36,7 @@
 | [0263-ugly-number](https://github.com/garvit-exe/leetcode-solves/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/garvit-exe/leetcode-solves/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/garvit-exe/leetcode-solves/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/garvit-exe/leetcode-solves/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/garvit-exe/leetcode-solves/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/garvit-exe/leetcode-solves/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/garvit-exe/leetcode-solves/tree/master/0268-missing-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/garvit-exe/leetcode-solves/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
